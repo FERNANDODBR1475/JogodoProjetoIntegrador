@@ -1,0 +1,33 @@
+# Pastas geradas automaticamente que devem ser ignoradas
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Arquivos temporários e locais
+*.log
+*.obj
+*.pch
+*.pdb
+*.sdf
+*.suo
+*.opensdf
+*.tlog
+*.tmp
+
+# Configurações locais de IDEs (Visual Studio, etc.)
+.vscode/
+*.VC.db
+*.VC.opendb
+*.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*.old
+
+# Ignore arquivos do sistema
+ehthumbs.db
+Icon?
+Desktop.ini
